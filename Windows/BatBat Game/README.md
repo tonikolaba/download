@@ -18,7 +18,7 @@ I have create a setup of game that can easy be run. Just follow the steps one by
 
 This is the official links
 
-> -  Oracle (Java Official Web) http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+> -  Java SE Development Kit (JDK) [Download](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 > -  Accept License Agreement for Java SE
 
